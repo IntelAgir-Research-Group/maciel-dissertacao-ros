@@ -1,0 +1,43 @@
+description,url
+Reconsider Node to Participant mapping design,https://github.com/ros2/design/pull/250
+Add a Command substitution launch,https://github.com/ros2/launch/issues/366
+Improve Python API rosbag2,https://github.com/ros2/rosbag2/issues/232
+ament_nodl: 0.1.0-1 in 'foxy/distribution.yaml' [bloom] ros/rosdistro,https://github.com/ros/rosdistro/pull/25203
+nodl: 0.1.0-1 in 'foxy/distribution.yaml' [bloom] ros/rosdistro,https://github.com/ros/rosdistro/pull/25250
+Install security plugins eclipse-cyclonedds/cyclonedds,https://github.com/eclipse-cyclonedds/cyclonedds/pull/432
+Add Security Logging Plugin. eProsima/Fast-DDS,https://github.com/eProsima/Fast-DDS/pull/1125
+Add basic support for security logging plugin rmw_fastrtps,https://github.com/ros2/rmw_fastrtps/pull/362
+Add basic support for security logging plugin rmw_connext,https://github.com/ros2/rmw_connext/pull/404
+Enable use of Cyclone DDS security features rmw_cyclonedds,https://github.com/ros2/rmw_cyclonedds/pull/123
+colcon plugin: support ROS 2 Eloquent canonical/snapcraft,https://github.com/canonical/snapcraft/pull/2835
+tests: don't assume euid != 0 ros-infrastructure/rosdep,https://github.com/ros-infrastructure/rosdep/pull/703
+Guard next(inter) ros-infrastructure/rosdep,https://github.com/ros-infrastructure/rosdep/pull/701
+api: reorganize keystore API sros2,https://github.com/ros2/sros2/pull/188
+api: reorganize policy API sros2,https://github.com/ros2/sros2/pull/190
+api: reorganize permission API sros2,https://github.com/ros2/sros2/pull/191
+api: reorganize artifact generation API sros2,https://github.com/ros2/sros2/pull/195
+distro: include vcs_type when generating rosinstall ros-infrastructure/rosinstall_generator,https://github.com/ros-infrastructure/rosinstall_generator/pull/64
+Support tar sources and releases ros-infrastructure/rosdistro,https://github.com/ros-infrastructure/rosdistro/pull/151
+Liveliness QoS implementation (rebase/squash) eclipse-cyclonedds/cyclonedds,https://github.com/eclipse-cyclonedds/cyclonedds/pull/342
+Cache serialization info when CDRWriter is constructed rmw_cyclonedds,https://github.com/ros2/rmw_cyclonedds/pull/80
+Improvements to rmw for deterministic execution design,https://github.com/ros2/design/issues/259
+Waitset timestamp fields rcl,https://github.com/ros2/rcl/pull/591
+Add timestamps to rmw-internal structures. rmw,https://github.com/ros2/rmw/pull/200
+Design Document for Zero-Copy via Loaned Messages design,https://github.com/ros2/design/pull/256
+add ability to wait on subscriptions without an executor rclcpp,https://github.com/ros2/rclcpp/issues/520
+"Costmap Filters (keep out, preferred lanes, slow/safety zones) ros-navigation/navigation2",https://github.com/ros-navigation/navigation2/issues/1263
+"New Default SLAM In ROS2: Maintainership, Process, Release, Testing, Oh My! SteveMacenski/slam_toolbox",https://github.com/SteveMacenski/slam_toolbox/issues/151
+Characterize the navigation reliability - The Office Marathon 2 ros-navigation/navigation2,https://github.com/ros-navigation/navigation2/issues/929
+Website improvements ros-navigation/navigation2,https://github.com/ros-navigation/navigation2/issues/1228
+part of ros-core,https://github.com/ros2/variants/pull/24
+diagnostics aggregator,https://github.com/ros/diagnostics/pull/118
+Expend RMW API to list publishers/subscribers QoS options,https://github.com/ros2/rmw/pull/186
+"Enhanced ros2 topic info to display node name, node namespace, topic type and qos profile of the publishers and subscribers",https://github.com/ros2/ros2cli/pull/385
+ros2node info,https://github.com/ros2/ros2cli/pull/463
+ros2node list,https://github.com/ros2/ros2cli/pull/462
+Warning users when a single launch files contain multiple nodes with similar names,https://github.com/ros2/launch_ros/pull/127
+REP-2001: minimal C++ ROS 2 variant,https://github.com/ros-infrastructure/rep/pull/231
+REP-2004: ROS 2 Core Quality Level Definition,https://github.com/ros-infrastructure/rep/pull/218
+WIP,https://github.com/ros-infrastructure/rep/pull/225
+quality/security discussions,https://github.com/ros-infrastructure/rep/pull/218#discussion_r370583550
+another row of “formal” feedback,https://github.com/mikaelarguedas/rep/pull/1#discussion_r393230990

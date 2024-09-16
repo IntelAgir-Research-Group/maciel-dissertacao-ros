@@ -1,0 +1,51 @@
+description,url
+,https://github.com/ros2/ros2/issues/529
+Add CLI tool for Actions ros2cli,https://github.com/ros2/ros2cli/issues/202
+Migrate to IDL rosidl,https://github.com/ros2/rosidl/issues/346
+map Arrays to numpy.ndarray() and Sequences to array.array() rosidl_python,https://github.com/ros2/rosidl_python/pull/35
+support for WString across all generators rosidl,https://github.com/ros2/rosidl/issues/352
+Improve intraprocess communication behavior,https://github.com/ros2/ros2/issues/649
+Launch composable C++ nodes launch_ros,https://github.com/ros2/launch_ros/issues/6
+Launch-based Testing launch,https://github.com/ros2/launch/issues/161
+Remove legacy API launch,https://github.com/ros2/launch/issues/159
+XML/YAML Front-end launch,https://github.com/ros2/launch/issues/163
+Adds ROS 2 launch XML format design document design,https://github.com/ros2/design/pull/207
+Read only parameters rclcpp,https://github.com/ros2/rclcpp/pull/495
+Parameters support ranges rcl_interfaces,https://github.com/ros2/rcl_interfaces/pull/72
+Range support for parameters rclpy,https://github.com/ros2/rclpy/issues/350
+Memory management improvements,https://github.com/ros2/ros2/issues/590
+fix leak in __wait_set_clean_up rcl,https://github.com/ros2/rcl/pull/418
+Porting rosapi package. RobotWebTools/rosbridge_suite,https://github.com/RobotWebTools/rosbridge_suite/pull/388
+Add CI jobs ros-infrastructure/ros_buildfarm,https://github.com/ros-infrastructure/ros_buildfarm/pull/590
+Modernize RPM spec file templates ros-infrastructure/bloom,https://github.com/ros-infrastructure/bloom/pull/533
+Add Ament package support to RPM generation ros-infrastructure/bloom,https://github.com/ros-infrastructure/bloom/pull/534
+merging with ApexAI/apex_rostest and repository reorganization launch,https://github.com/ros2/launch/issues/208
+performance_test in OSRF CI ApexAI/performance_test,https://github.com/ApexAI/performance_test/issues/50
+ros2/launch,https://github.com/ros2/launch/issues/208
+(comment),https://github.com/ros2/ros2/issues/607#issuecomment-460319513
+"Adds design document for Deadline, Liveliness, and Lifespan. design",https://github.com/ros2/design/pull/212
+"[ROS2 QoS meta-ticket] Dealine, Liveliness, and Lifespan",https://github.com/ros2/ros2/issues/680
+[ROS2 QA meta-ticket] Automatically Surface ROS 2 Reliability Issues,https://github.com/ros2/ros2/issues/662
+Add ROS 2 Threat Model article design,https://github.com/ros2/design/pull/218
+Extending OpenEmbedded support ros-infrastructure/superflore,https://github.com/ros-infrastructure/superflore/issues/167
+boschresearch/ros2_diagnostics,https://github.com/boschresearch/ros2_diagnostics/issues/1
+Fetch cartographer to release-1.0 tag cartographer,https://github.com/ros2/cartographer/pull/7
+Fetch cartographer_ros to release-1.0 tag and add ROS2 API cartographer_ros,https://github.com/ros2/cartographer_ros/pull/25
+turtlesim for ROS2 demos,https://github.com/ros2/demos/pull/331
+server,https://github.com/ros2/rclpy/pull/270
+client,https://github.com/ros2/rclpy/pull/262
+map Arrays to numpy.ndarray() and Sequences to array.array() rosidl_python,https://github.com/ros2/rosidl_python/pull/35
+Adds ROS 2 launch XML format design document design,https://github.com/ros2/design/pull/207
+Read only parameters rclcpp,https://github.com/ros2/rclcpp/pull/495
+Parameters support ranges rcl_interfaces,https://github.com/ros2/rcl_interfaces/pull/72
+fix leak in __wait_set_clean_up rcl,https://github.com/ros2/rcl/pull/418
+Porting rosapi package. RobotWebTools/rosbridge_suite,https://github.com/RobotWebTools/rosbridge_suite/pull/388
+Add CI jobs ros-infrastructure/ros_buildfarm,https://github.com/ros-infrastructure/ros_buildfarm/pull/590
+Modernize RPM spec file templates ros-infrastructure/bloom,https://github.com/ros-infrastructure/bloom/pull/533
+Add Ament package support to RPM generation ros-infrastructure/bloom,https://github.com/ros-infrastructure/bloom/pull/534
+https://github.com/ApexAI/apex_rostest/pulls,https://github.com/ApexAI/apex_rostest/pulls
+"Adds design document for Deadline, Liveliness, and Lifespan. design",https://github.com/ros2/design/pull/212
+Add ROS 2 Threat Model article design,https://github.com/ros2/design/pull/218
+Fetch cartographer to release-1.0 tag cartographer,https://github.com/ros2/cartographer/pull/7
+Fetch cartographer_ros to release-1.0 tag and add ROS2 API cartographer_ros,https://github.com/ros2/cartographer_ros/pull/25
+turtlesim for ROS2 demos,https://github.com/ros2/demos/pull/331

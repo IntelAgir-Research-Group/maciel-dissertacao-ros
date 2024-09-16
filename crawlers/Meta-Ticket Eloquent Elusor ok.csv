@@ -1,0 +1,70 @@
+description,url
+Add ROS 2 command line arguments design document design,https://github.com/ros2/design/pull/245
+Migrate to '--ros-args ... [--]'-based ROS args extraction rcl,https://github.com/ros2/rcl/pull/477
+Fail fast on invalid ROS arguments rcl,https://github.com/ros2/rcl/pull/493
+Promote special CLI rules to flags rcl,https://github.com/ros2/rcl/pull/495
+Adds ROS 2 launch XML format design document design,https://github.com/ros2/design/pull/207
+Propose ROS 2 launch front-end design hints. design,https://github.com/ros2/design/pull/208
+"Add frontend module in launch, launch_xml and launch_yaml packages launch",https://github.com/ros2/launch/pull/226
+"Add frontend parsing methods for Node, ExecutableInPackage and FindPackage substitution launch_ros",https://github.com/ros2/launch_ros/pull/23
+Launch file migration guide ros2_documentation,https://github.com/ros2/ros2_documentation/pull/302
+Make daemon “reset” itself when the IP address changes ros2cli,https://github.com/ros2/ros2cli/pull/284
+Migrate InteractiveMarkerDisplay rviz,https://github.com/ros2/rviz/pull/457
+Migrate Wrench Display rviz,https://github.com/ros2/rviz/pull/396
+Re-enable use of tf message filter rviz,https://github.com/ros2/rviz/pull/375
+Dashing devel followup ros-visualization/rqt_reconfigure,https://github.com/ros-visualization/rqt_reconfigure/pull/38
+RQT Parameters for Ros2 ros-visualization/rqt_reconfigure,https://github.com/ros-visualization/rqt_reconfigure/pull/31
+Add Ament package support to RPM generation ros-infrastructure/bloom,https://github.com/ros-infrastructure/bloom/pull/534
+ROS 2 Performance Test Infrastructure,https://github.com/ros2/ros2/issues/812
+Reconsider Node to Participant mapping design,https://github.com/ros2/design/pull/250
+add design document for node name uniqueness design,https://github.com/ros2/design/issues/187
+Release Testing Automation - Iteration,https://github.com/ros2/ros2/issues/739
+Add osx mojave CI jobs ci,https://github.com/ros2/ci/pull/321
+improve performance when setting up environment,https://github.com/ros2/ros2/issues/764
+Restrict DDS middleware network traffic to localhost,https://github.com/ros2/ros2/issues/798
+add support for STREAM logging macros rclcpp,https://github.com/ros2/rclcpp/pull/926
+Per-node output logging meta-ticket,https://github.com/ros2/ros2/issues/789
+Added ros2interface to replace ros2 msg/srv ros2cli,https://github.com/ros2/ros2cli/pull/288
+Proof of concept part of cpython extension using Pybind11 rclpy,https://github.com/ros2/rclpy/pull/173
+turtlesim for ROS2 ros/ros_tutorials,https://github.com/ros/ros_tutorials/pull/53
+Split recordings into chunks by size while recording rosbag2,https://github.com/ros2/rosbag2/issues/150
+Added static single threaded executor functionality rclcpp,https://github.com/ros2/rclcpp/pull/873
+Support zero-copy in ROS2,https://github.com/ros2/ros2/issues/785
+[Windows][ros2] Avoid build break for Visual Studio 2019 v16.3 ros-perception/image_common,https://github.com/ros-perception/image_common/pull/135
+[Windows][ros2] Export interfaces for Shared Lib on Windows ros-perception/vision_opencv,https://github.com/ros-perception/vision_opencv/pull/301
+[Windows][dashing] Export interfaces for Shared Lib on Windows. teleop_twist_joy,https://github.com/ros2/teleop_twist_joy/pull/14
+Design Document for Zero-Copy via Loaned Messages design,https://github.com/ros2/design/pull/256
+Various fixes for test failures and compatibility with Eloquent rmw_cyclonedds,https://github.com/ros2/rmw_cyclonedds/pull/20
+Reorganize repository eclipse-cyclonedds/cyclonedds,https://github.com/eclipse-cyclonedds/cyclonedds/pull/224
+Add support for Cyclone DDS ApexAI/performance_test,https://github.com/ApexAI/performance_test/pull/75
+OMG DDS Security eclipse-cyclonedds/cyclonedds,https://github.com/eclipse-cyclonedds/cyclonedds/issues/132
+"Nav2 should work with Cartographer, other SLAM packages ros-navigation/navigation2",https://github.com/ros-navigation/navigation2/issues/595
+Support multiple robots navigating simultaneously ros-navigation/navigation2,https://github.com/ros-navigation/navigation2/issues/971
+Update updown test ros-navigation/navigation2,https://github.com/ros-navigation/navigation2/pull/1018
+Enabling persistent robot pose across node restarts ros-navigation/navigation2,https://github.com/ros-navigation/navigation2/issues/290
+Planner interface and action interface for local planners ros-navigation/navigation2,https://github.com/ros-navigation/navigation2/pull/1045
+[launch] Multi-machine Launching launch,https://github.com/ros2/launch/issues/79
+Replace openssl subprocess calls with python cryptography library sros2,https://github.com/ros2/sros2/issues/109
+Design document for Node Interface Definition Language (IDL) design,https://github.com/ros2/design/pull/266
+add mypy support for linters/testing ament/ament_lint,https://github.com/ament/ament_lint/pull/154
+Add param dump <node-name> ros2cli,https://github.com/ros2/ros2cli/pull/285
+Add pkg xml verb ros2cli,https://github.com/ros2/ros2cli/pull/280
+add 'topic type' verb ros2cli,https://github.com/ros2/ros2cli/pull/272
+add 'service find' verb ros2cli,https://github.com/ros2/ros2cli/pull/274
+Add 'service type' verb ros2cli,https://github.com/ros2/ros2cli/pull/273
+Add 'topic find' verb ros2cli,https://github.com/ros2/ros2cli/pull/271
+Add topic pub prototype completer ros2cli,https://github.com/ros2/ros2cli/pull/299
+Add service call prototype completer ros2cli,https://github.com/ros2/ros2cli/pull/300
+Add action send_goal prototype completer ros2cli,https://github.com/ros2/ros2cli/pull/301
+Porting to  ROS2 ?? ros-teleop/teleop_tools,https://github.com/ros-teleop/teleop_tools/issues/34
+eProsima/Fast-DDS,https://github.com/eProsima/Fast-DDS/issues/630
+aliasrobotics/RVD,https://github.com/aliasrobotics/RVD/issues/509
+ros2/ros2,https://github.com/ros2/ros2/issues/734
+ros2/ros2cli,https://github.com/ros2/ros2cli/pull/283
+relational database,https://github.com/ApexAI/performance_test/pull/84
+add mechanism to pass rmw impl specific payloads during pub/sub creation,https://github.com/ros2/rclcpp/pull/882
+https://github.com/ros2/sros2/pulls?q=is%3Apr+is%3Aclosed+author%3Apbaughman,https://github.com/ros2/sros2/pulls?q=is%3Apr+is%3Aclosed+author%3Apbaughman
+cross-compilation for ARM,https://github.com/ApexAI/performance_test/pull/101
+adding CPU load statistics,https://github.com/ApexAI/performance_test/pull/99
+multicast auto-tune for wifi,https://github.com/eclipse-cyclonedds/cyclonedds/pull/222
+patch,https://github.com/ros2/rcl/pull/509

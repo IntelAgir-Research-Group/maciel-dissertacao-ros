@@ -1,0 +1,32 @@
+description,url
+Add Foxy Fitzroy to REP 2000 ros-infrastructure/rep,https://github.com/ros-infrastructure/rep/pull/217
+Add release and installation pages for Foxy Fitzroy ros2_documentation,https://github.com/ros2/ros2_documentation/pull/445
+Add ROS 2 Galactic Geochelone ros/rosdistro,https://github.com/ros/rosdistro/pull/29211
+Add Galactic job configurations ci,https://github.com/ros2/ci/pull/571
+add Focal option ci,https://github.com/ros2/ci/pull/376
+Default to Ubuntu Focal for Linux jobs ci,https://github.com/ros2/ci/pull/414
+Update ROS Rolling to Jammy osrf/docker_images,https://github.com/osrf/docker_images/pull/601
+Add a Suite3 option with Ubuntu Focal. ros-infrastructure/catkin_pkg,https://github.com/ros-infrastructure/catkin_pkg/pull/271
+add Suite3 including Focal ros-infrastructure/rospkg,https://github.com/ros-infrastructure/rospkg/pull/184
+add Suite3 including Focal ros-infrastructure/rosdistro,https://github.com/ros-infrastructure/rosdistro/pull/148
+Add Suite3 option with Ubuntu Focal ros-infrastructure/rosdep,https://github.com/ros-infrastructure/rosdep/pull/734
+Add Suite3 option with Ubuntu Focal ros-infrastructure/bloom,https://github.com/ros-infrastructure/bloom/pull/558
+Add Suite3 option with Ubuntu Focal ros-infrastructure/rosinstall_generator,https://github.com/ros-infrastructure/rosinstall_generator/pull/62
+add Suite3 including Focal dirk-thomas/vcstool,https://github.com/dirk-thomas/vcstool/pull/112
+Migrate packages from Rolling to Galactic ros/rosdistro,https://github.com/ros/rosdistro/pull/29221
+Set Humble release versions,https://github.com/ros2/ros2/pull/1274
+Update development branches for Galactic ros/rosdistro,https://github.com/ros/rosdistro/pull/29267
+Add CI jobs for ROS 2 Galactic ros_buildfarm_config,https://github.com/ros2/ros_buildfarm_config/pull/157
+Foxy development repos file ros2_documentation,https://github.com/ros2/ros2_documentation/pull/752
+Add release and source builds for ROS 2 Galactic ros_buildfarm_config,https://github.com/ros2/ros_buildfarm_config/pull/155
+List install instructions for Foxy on main install page ros2_documentation,https://github.com/ros2/ros2_documentation/pull/746
+Add Foxy to the list of released distros ros2_documentation,https://github.com/ros2/ros2_documentation/pull/747
+Add API documentation for Galactic docs.ros2.org,https://github.com/ros2/docs.ros2.org/pull/56
+Add ROS 2 Galactic Geochelone ros-infrastructure/rosindex,https://github.com/ros-infrastructure/rosindex/pull/264
+Release of ROS 2 Galactic Geochelone,https://github.com/ros2/ros2/pull/1147
+Mark ROS 2 Galactic as an 'active' distribution ros/rosdistro,https://github.com/ros/rosdistro/pull/29635
+Add humble osrf/docker_images,https://github.com/osrf/docker_images/pull/622
+osrf/docker_images,https://github.com/osrf/docker_images/pull/620
+ros-infrastructure/www.ros.org,https://github.com/ros-infrastructure/www.ros.org/pull/35
+ros-infrastructure/www.ros.org,https://github.com/ros-infrastructure/www.ros.org/pull/37
+https://github.com/ros2/ros2_documentation/pull/2580/files,https://github.com/ros2/ros2_documentation/pull/2580/files
