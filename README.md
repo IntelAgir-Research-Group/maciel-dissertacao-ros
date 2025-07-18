@@ -1,7 +1,7 @@
 # maciel-dissertacao-ros
 Implementações e pacotes de replicação da dissertação.
 
-Pacote de replicação:
+Script em python:
 [crawlers/meta_ticket atualizado.py](https://github.com/IntelAgir-Research-Group/maciel-dissertacao-ros/blob/eac103b7e4ff3916c7f33dd5d80f12b98a142267/crawlers/meta_ticket%20atualizado.py)
 
 Planilha com os dados:
